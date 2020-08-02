@@ -43,7 +43,7 @@ updateInput(input){
   render(){
     return(
       <div>
-      <img src={logo} width="100" height="100" className="logo" />
+      <img src={logo} width="100" height="100" className="logo" alt="can not load" />
         <h1 className="app-title">ToDo App</h1>
         <div className="container">
           Add an Iteam...
